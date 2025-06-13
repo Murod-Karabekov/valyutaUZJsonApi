@@ -1,0 +1,26 @@
+body {
+    color: aliceblue;
+    background-color: black;
+}
+
+.imgHeader img {
+    width: 100%;
+    height: auto;
+}
+
+#valyut {
+    border: 1px solid blue; 
+    width: 100%;
+}
+
+#tr {
+    text-align: center;
+}
+
+.table {
+    border: 1px groove blue;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: blueviolet;
+
+}
